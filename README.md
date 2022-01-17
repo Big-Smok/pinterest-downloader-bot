@@ -4,13 +4,13 @@
 ```
 git clone https://github.com/Big-Smok/pinterest-downloader-bot
 ```
-**First Install the libs**
+**Second Install the libs**
 
 ```
 pip install -r requirements.txt 
 ```
 
-**Second you need to put your token in line 2 in file pin_download.py**
+**last you need to put your Bot token in line 2 in file pin_download.py**
 
 **and run**
 
