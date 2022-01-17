@@ -1,5 +1,9 @@
 **Telegram Bot To Download from pinterest**
+**First Install the files**
 
+```
+git clone https://github.com/Big-Smok/pinterest-downloader-bot
+```
 **First Install the libs**
 
 ```
@@ -10,4 +14,6 @@ pip install -r requirements.txt
 
 **and run**
 
-```python pin_download.py```
+```
+python pin_download.py
+```
