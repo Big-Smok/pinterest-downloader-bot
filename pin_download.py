@@ -1,5 +1,5 @@
 import requests,bs4,telebot,os
-token=""
+token="5130510284:AAHzgfEhVj0Rjx4KL0TD6uIqpEjar52GZrU"
 bot=telebot.TeleBot(token)
 @bot.message_handler(commands=["start"])
 def start(messag):
