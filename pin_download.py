@@ -28,4 +28,5 @@ def go(message):
         os.remove("image.jpg")
     except:
         bot.send_message(message.chat.id,"Broken Url🔗")
+bot.delete_webhook()
 bot.polling()
